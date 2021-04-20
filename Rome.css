@@ -85,8 +85,9 @@ body{
 }
 .vid {
     margin-left: 25%;
-    width:auto;
-    height:auto;
+    width:700px;
+    height: 500px;
+ 
 }
 #sect2{
     padding-right: 15px;
